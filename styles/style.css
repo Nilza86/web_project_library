@@ -184,3 +184,6 @@
   margin-left: 0;
   margin-bottom: 0;
 }
+.header__link {
+  margin: 0;
+}
