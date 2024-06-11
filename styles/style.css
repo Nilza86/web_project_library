@@ -337,10 +337,11 @@
 .membership__steps {
   list-style-type: none;
   padding: 0;
-  margin-top: 100px;
+  margin: 100px 0 0;
+  /*margin-top: 100px;
   margin-right: 50px;
   margin-bottom: 0px;
-  margin-left: 50px;
+  margin-left: 50px;*/
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
